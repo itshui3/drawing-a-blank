@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Hui Was Here</h1>
+      <h1>Hui, & Ariana Were Here</h1>
       <h2>
         Deployed with{' '}
         <a
